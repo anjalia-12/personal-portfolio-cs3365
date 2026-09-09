@@ -26,4 +26,4 @@ To view the project locally:
 2. Open the project folder.
 3. Open `index.html` in a web browser.
 
-The deployed version can also be viewed using the GitHub Pages link above.=
+The deployed version can also be viewed using the GitHub Pages link above.
