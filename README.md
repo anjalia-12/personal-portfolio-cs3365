@@ -16,7 +16,7 @@ The portfolio highlights my background, technical skills, projects, and professi
 
 ## Live Website
 
-The GitHub Pages deployment link will be added here after deployment.
+https://anjalia-12.github.io/personal-portfolio-cs3365/
 
 ## Viewing the Project
 
